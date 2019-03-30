@@ -11,3 +11,5 @@ For deep features: [click here](http://github.com)
 Deep features per frame was extracted using VGG Face model Oxford. The features are 4096 dimensional. 
 
 ## Codes
+
+Note: Features and codes will be released soon
