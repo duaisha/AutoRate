@@ -1,5 +1,8 @@
 # AutoRate
 
+Note: Features and codes will be released soon
+
+
 This is the README file for the official code, features and model release associated with the 2019 FG paper, "AutoRate: How attentive is the driver?".
 
 ## Features
@@ -12,4 +15,4 @@ Deep features per frame was extracted using VGG Face model Oxford. The features 
 
 ## Codes
 
-Note: Features and codes will be released soon
+
