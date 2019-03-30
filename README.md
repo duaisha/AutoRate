@@ -1,7 +1,7 @@
-# AutoRate
 
 Note: Features and codes will be released soon
 
+# AutoRate
 
 This is the README file for the official code, features and model release associated with the 2019 FG paper, "AutoRate: How attentive is the driver?".
 
