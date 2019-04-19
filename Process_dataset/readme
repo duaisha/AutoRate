@@ -1,0 +1,16 @@
+1. Make dir eg: hams_dataset2_processed2
+	mkdir hams_dataset2_processed2
+	mkdir hams_dataset2_processed2/class1
+	mkdir hams_dataset2_processed2/class2
+	mkdir hams_dataset2_processed2/class3
+	mkdir hams_dataset2_processed2/class4
+	mkdir hams_dataset2_processed2/class5
+
+2. cp -r hams_dataset2_processed2 to hams_dataset2_processed3
+
+3. cp -r hams_dataset2 to hams_dataset2_processed
+
+4. ./preprocess/crop3.sh
+5. ./preprocess/crop4.sh
+6. remove_videos.sh
+
