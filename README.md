@@ -1,6 +1,8 @@
 
 Note: Features and codes will be released soon
 
+THis code will be released by end of March 2020. Appologies for the same.
+
 # AutoRate
 
 This is the README file for the official code, features and model release associated with the 2019 FG paper, "AutoRate: How attentive is the driver?".
