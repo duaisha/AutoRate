@@ -1,7 +1,9 @@
 
 Note: Features and codes will be released soon
 
+Updates:
 THis code will be released by end of March 2020. Appologies for the same.
+If you need this urgently please contact me/..
 
 # AutoRate
 
